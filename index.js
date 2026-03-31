@@ -9,4 +9,5 @@ app.get('/', (req, res) => {
 // ĐOẠN NÀY LÀ QUAN TRỌNG NHẤT: Giữ cho server luôn chạy
 app.listen(PORT, () => {
     console.log(`Server dang chay tai: http://localhost:${PORT}`);
+    //đẹptraivcl
 });
